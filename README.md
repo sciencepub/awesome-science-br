@@ -22,6 +22,7 @@ Para sugerir uma adição na lista, consulte o nosso [Guia de Contribuição](co
 * [SpaceTodayTV](https://www.youtube.com/channel/UC_Fk7hHbl7vv_7K8tYqJd5A) - O SpaceTodayTV é um canal voltado para a divulgação da astronomia em português.
 
 ## Podcasts
+* [Astrocast](https://www.mixcloud.com/astrocast/) - Astrocast é um podcast de ciência focado em astronomia e ciências afins.
 * [Nerdcast](https://jovemnerd.com.br/nerdcast/) - Podcast sobre história, ciência, cinema, quadrinhos, literatura, tecnologia, games, RPG… Tudo que um nerd gosta!
 * [Dragões de Garagem](http://dragoesdegaragem.com/podcast/dragoes-de-garagem/) - O Dragões de Garagem é um podcast de divulgação científica. Falamos de ciência de forma natural, incentivando o pensamento crítico e a curiosidade dos ouvintes.
 * [SciCast](http://www.deviante.com.br/podcasts/scicast/) - Podcast de divulgação científica abordando temas diversos.
