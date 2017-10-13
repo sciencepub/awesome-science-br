@@ -39,3 +39,4 @@ Para sugerir uma adição na lista, consulte o nosso [Guia de Contribuição](co
 * [SciencePub](https://www.facebook.com/sciencepubma/) - Pub mensal sobre ciência, filosofia e sociedade em São Luís - Maranhão.
 
 ## Instituições
+* [SAMA](http://sama-astronomia.blogspot.com.br/) - Sociedade de Astronomia do Maranhão
