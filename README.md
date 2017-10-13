@@ -20,7 +20,7 @@ Para sugerir uma adição na lista, consulte o nosso [Guia de Contribuição](co
 * [Peixe Babel](https://www.youtube.com/user/CanalPeixeBabel) - Canal voltado pra explicar de forma acessível temas de uma área pouco explorada na mídia e pouco entendida, a robótica.
 * [Mensageiro Sideral](https://www.youtube.com/channel/UCoRwVRrzVq3qTw7GqOEfH6Q/featured) - Desvendando os segredos do universo.
 * [SpaceTodayTV](https://www.youtube.com/channel/UC_Fk7hHbl7vv_7K8tYqJd5A) - O SpaceTodayTV é um canal voltado para a divulgação da astronomia em português.
-* [Tomada Zero](https://www.youtube.com/channel/UCUUxzrFdb0eOmLkTjHd_MMg) - Paródia bem-humorada de Carl Sagan, discutindo ciência de maneira leve e descontraída. 
+* [Tomada Zero](https://www.youtube.com/channel/UCUUxzrFdb0eOmLkTjHd_MMg) - Paródia bem-humorada de Carl Sagan, discutindo ciência de maneira leve e descontraída.
 
 ## Podcasts
 * [Astrocast](https://www.mixcloud.com/astrocast/) - Astrocast é um podcast de ciência focado em astronomia e ciências afins.
@@ -32,6 +32,7 @@ Para sugerir uma adição na lista, consulte o nosso [Guia de Contribuição](co
 ## Sites
 
 * [Revista Pesquisa FAPESP](http://revistapesquisa.fapesp.br/) - Site da revista da Fundação de Amparo à Pesquisa do Estado de São Paulo
+* [Universo Racionalista](https://universoracionalista.org/) - Universo Racionalista é uma organização em língua portuguesa especializada em divulgação científica e filosófica.
 
 ## Eventos
 
