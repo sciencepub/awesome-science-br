@@ -31,7 +31,7 @@ Para sugerir uma adição na lista, consulte o nosso [Guia de Contribuição](co
 
 ## Sites
 
-* [Revista Pesquisa FAPESP](http://revistapesquisa.fapesp.br/) - Site da revista da Fundação de Amparo à Pesquisa do Estado de São Paulo
+* [Revista Pesquisa FAPESP](http://revistapesquisa.fapesp.br/) - Site da revista da Fundação de Amparo à Pesquisa do Estado de São Paulo.
 * [Universo Racionalista](https://universoracionalista.org/) - Universo Racionalista é uma organização em língua portuguesa especializada em divulgação científica e filosófica.
 
 ## Eventos
@@ -39,4 +39,14 @@ Para sugerir uma adição na lista, consulte o nosso [Guia de Contribuição](co
 * [SciencePub](https://www.facebook.com/sciencepubma/) - Pub mensal sobre ciência, filosofia e sociedade em São Luís - Maranhão.
 
 ## Instituições
-* [SAMA](http://sama-astronomia.blogspot.com.br/) - Sociedade de Astronomia do Maranhão
+* [SAMA](http://sama-astronomia.blogspot.com.br/) - Sociedade de Astronomia do Maranhão.
+
+## Grupos no Telegram
+
+* [SciencePub - MA](https://t.me/sciencepubma) - Grupo oficial do SciencePub no Telegram.
+* [Cosmos de Carlos Sagaz](https://t.me/CosmosdeCarlosSagaz) - Grupo oficial da paródia Cosmos de Carlos Sagaz.
+* [Ciência todo dia](https://t.me/cienciasempre) - Um grupo para discutir sobre ciências em geral. Se você gosta de ciência, venha aprender.
+
+## Canais no Telegram
+
+* [Cosmos](https://t.me/cosmosastronomia) - Tudo sobre Astronomia: Notícias, curiosidades, Universo...
