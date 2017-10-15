@@ -12,6 +12,7 @@ Para sugerir uma adição na lista, consulte o nosso [Guia de Contribuição](co
 * [Instituições](#instituições)
 * [Grupos no Telegram](#grupos-no-telegram)
 * [Canais no Telegram](#canais-no-telegram)
+* [Agradecimentos](#agradecimentos)
 
 ## Canais no Youtube
 
@@ -50,9 +51,9 @@ Para sugerir uma adição na lista, consulte o nosso [Guia de Contribuição](co
 ## Instituições
 * [Associação Paraibana de Astronomia](http://www.apapb.org/)
 * [Astromaníacos](https://www.facebook.com/AstromaniacosBR/?fref=ts)
+* [Centro de Estudos Astronômicos de Alagoas](http://www.ceaal.al.org.br/)
 * [Clube de Astronomia Eclipse de Arapiraca](http://clubedeastronomiaeclipse.blogspot.com.br/)
 * [Clube de Astronomia Valentina Tereshkova](http://clubedeastronomiavalentina.blogspot.com.br/)
-* [Centro de Estudos Astronômicos de Alagoas](http://www.ceaal.al.org.br/)
 * [Clube de Astronomia Cruzeiro do Sul](https://www.facebook.com/cacruzeirodosul/)
 * [Clube de Astronomia de Maceió](http://clam-al.blogspot.com.br/)
 * [Clube de Astronomia do Amapá](http://clubemirzam.blogspot.com.br/)
@@ -61,6 +62,7 @@ Para sugerir uma adição na lista, consulte o nosso [Guia de Contribuição](co
 * [Clube de Astronomia da Universidade Estadual de Santa Cruz](https://www.facebook.com/groups/457844457684603/?ref=ts&fref=ts)
 * [Clube de Astronomia de Feira de Santana](http://cafsonline.com.br/)
 * [Clube de Astronomia e Ciências de Paulo Afonso](https://www.facebook.com/groups/1433692026870331/)
+* [Grupo de Apoio em Eventos Astronômicos](https://www.facebook.com/AstronomiaGaeA/?fref=mentions)
 * [Grupo de Astronomia Amadora de Salvador](https://gaasalvador.com.br/)
 * [Grupo de Astronomia Poeira das Estrelas](https://www.facebook.com/poeiradasestrelasgape/?ref=br_rs)
 * [Grupo de Astronomia Amadora do Acre - Gama Hidra](https://www.facebook.com/Gama-Hidra-Grupo-de-Astronomia-do-Acre-165098833597534/)
@@ -91,3 +93,8 @@ Para sugerir uma adição na lista, consulte o nosso [Guia de Contribuição](co
 ## Canais no Telegram
 
 * [Cosmos](https://t.me/cosmosastronomia) - Tudo sobre Astronomia: Notícias, curiosidades, Universo...
+
+## Agradecimentos
+
+Muitíssimo obrigado aos colaboradores da lista.
+Em especial ao [Grupo de Apoio em Eventos Astronômicos](https://www.facebook.com/AstronomiaGaeA/?fref=mentions) por compartilhar dados sobre clubes, projetos, observatórios, grupos e associações de astronomia em atividade pelo país.
