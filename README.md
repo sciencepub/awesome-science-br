@@ -9,7 +9,9 @@ Para sugerir uma adição na lista, consulte o nosso [Guia de Contribuição](co
 * [Podcasts](#podcasts)
 * [Sites](#sites)
 * [Eventos](#sites)
-* [Instituições](#instituicoes)
+* [Instituições](#instituições)
+* [Grupos no Telegram](#grupos-no-telegram)
+* [Canais no Telegram](#canais-no-telegram)
 
 ## Canais no Youtube
 
@@ -17,6 +19,7 @@ Para sugerir uma adição na lista, consulte o nosso [Guia de Contribuição](co
 * [Primata Falante](https://www.youtube.com/user/mrprimatafalante) - Por aqui você encontra vídeos sobre ciência, sociedade, ciência de filmes, games e outros universos de ficção e muito mais.
 * [Nerdologia](https://www.youtube.com/user/nerdologia) - Uma análise científica da cultura nerd!
 * [Ciência Todo dia](https://www.youtube.com/user/CienciaTodoDia) - Um canal totalmente voltado para assuntos que podem ser abordados no cotidiano, mantendo seu cérebro sempre ativo!
+* [Olá Ciência](https://www.youtube.com/olacienciabr) - O canal em que você será apresentado ao mundo científico, de uma forma bem-humorada e direta.
 * [BláBláLogia](https://www.youtube.com/channel/UC3Ooj_iDWELBumIEDejyNHQ) - BláBláLogia, um programa informativo, com preocupação científica, mas ao mesmo tempo leve e divertido.
 * [Peixe Babel](https://www.youtube.com/user/CanalPeixeBabel) - Canal voltado pra explicar de forma acessível temas de uma área pouco explorada na mídia e pouco entendida, a robótica.
 * [Mensageiro Sideral](https://www.youtube.com/channel/UCoRwVRrzVq3qTw7GqOEfH6Q/featured) - Desvendando os segredos do universo.
@@ -43,8 +46,10 @@ Para sugerir uma adição na lista, consulte o nosso [Guia de Contribuição](co
 * [SciencePub](https://www.facebook.com/sciencepubma/) - Pub mensal sobre ciência, filosofia e sociedade em São Luís - Maranhão.
 
 ## Instituições
+* [Associação Paraibana de Astronomia](http://www.apapb.org/)
 * [Sociedade Astronômica Brasileira](https://www.sab-astro.org.br/)
 * [Sociedade de Astronomia do Maranhão](http://sama-astronomia.blogspot.com.br/)
+* [Sociedade Astronômica do Recife](http://www.sociedadeastronomica.com.br/)
 
 ## Grupos no Telegram
 
