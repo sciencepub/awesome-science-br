@@ -19,6 +19,7 @@ Para sugerir uma adição na lista, consulte o nosso [Guia de Contribuição](co
 * [Primata Falante](https://www.youtube.com/user/mrprimatafalante) - Por aqui você encontra vídeos sobre ciência, sociedade, ciência de filmes, games e outros universos de ficção e muito mais.
 * [Nerdologia](https://www.youtube.com/user/nerdologia) - Uma análise científica da cultura nerd!
 * [Ciência Todo dia](https://www.youtube.com/user/CienciaTodoDia) - Um canal totalmente voltado para assuntos que podem ser abordados no cotidiano, mantendo seu cérebro sempre ativo!
+* [Café e Ciência](https://www.youtube.com/c/cafeeciencia?app=desktop) -vídeos sobre Divulgação Científica, Astronomia, Matemática, Física e ciências em geral.
 * [Olá Ciência](https://www.youtube.com/olacienciabr) - O canal em que você será apresentado ao mundo científico, de uma forma bem-humorada e direta.
 * [BláBláLogia](https://www.youtube.com/channel/UC3Ooj_iDWELBumIEDejyNHQ) - BláBláLogia, um programa informativo, com preocupação científica, mas ao mesmo tempo leve e divertido.
 * [Peixe Babel](https://www.youtube.com/user/CanalPeixeBabel) - Canal voltado pra explicar de forma acessível temas de uma área pouco explorada na mídia e pouco entendida, a robótica.
@@ -38,6 +39,7 @@ Para sugerir uma adição na lista, consulte o nosso [Guia de Contribuição](co
 ## Sites
 
 * [Revista Pesquisa FAPESP](http://revistapesquisa.fapesp.br/) - Site da revista da Fundação de Amparo à Pesquisa do Estado de São Paulo.
+* [Jornal da Ciência](http://www.jornaldaciencia.org.br/) - Publicação de divulgação científica da Sociedade Brasileira para o Progresso da Ciência
 * [Universo Racionalista](https://universoracionalista.org/) - Universo Racionalista é uma organização em língua portuguesa especializada em divulgação científica e filosófica.
 * [Mistérios do Universo](http://www.misteriosdouniverso.net/) - Página com conteúdo exclusivamente científico com foco em astronomia, cosmologia, física, astrofísica, e ciências no geral.
 
@@ -50,6 +52,7 @@ Para sugerir uma adição na lista, consulte o nosso [Guia de Contribuição](co
 * [Sociedade Astronômica Brasileira](https://www.sab-astro.org.br/)
 * [Sociedade de Astronomia do Maranhão](http://sama-astronomia.blogspot.com.br/)
 * [Sociedade Astronômica do Recife](http://www.sociedadeastronomica.com.br/)
+* [Sociedade Brasileira para o Progresso da Ciência](http://portal.sbpcnet.org.br/)
 
 ## Grupos no Telegram
 
