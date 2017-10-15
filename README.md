@@ -70,6 +70,7 @@ Para sugerir uma adição na lista, consulte o nosso [Guia de Contribuição](co
 * [Núcleo de Astronomia do IFBA](http://physika.info/physika/)
 * [Observatório Astronômico Antares](https://www.facebook.com/antaresUEFS)
 * [Observatório Astronômico Cosmos](https://www.facebook.com/ObservatoryCosmos/)
+* [Observatório Astronômico da Física](https://www.facebook.com/Obafis-UEMA-F%C3%ADsica-104362450119955/)
 * [Observatório Astronômico Genival Leite Lima](http://oagll.blogspot.com.br/)
 * [Observatório Astronômico Rei do Universo](https://www.facebook.com/OARU.Manaus/)
 * [Observatório Astronômico da Universidade Estadual de Santa Cruz](https://www.facebook.com/groups/457844457684603/?ref=ts&fref=ts)
