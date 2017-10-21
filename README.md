@@ -93,6 +93,7 @@ Para sugerir uma adição na lista, consulte o nosso [Guia de Contribuição](co
 
 ## Canais no Telegram
 
+* [Ciência e tecnologia](https://t.me/cienciatecnologia) - Canal sobre ciência e tecnologia
 * [Cosmos](https://t.me/cosmosastronomia) - Tudo sobre Astronomia: Notícias, curiosidades, Universo...
 * [Visões de Mundo](https://t.me/visoesDeMundo) - Pensamentos e livros.
 
