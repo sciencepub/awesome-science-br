@@ -20,6 +20,7 @@ Para sugerir uma adição na lista, consulte o nosso [Guia de Contribuição](co
 * [BláBláLogia](https://www.youtube.com/channel/UC3Ooj_iDWELBumIEDejyNHQ) - BláBláLogia, um programa informativo, com preocupação científica, mas ao mesmo tempo leve e divertido.
 * [Café e Ciência](https://www.youtube.com/c/cafeeciencia?app=desktop) -vídeos sobre Divulgação Científica, Astronomia, Matemática, Física e ciências em geral.
 * [Ciência Todo dia](https://www.youtube.com/user/CienciaTodoDia) - Um canal totalmente voltado para assuntos que podem ser abordados no cotidiano, mantendo seu cérebro sempre ativo!
+* [Ciência e Astronomia](https://www.youtube.com/user/cienciaeastronomia) - O canal Ciência e Astronomia tem o objetivo de divulgar e popularizar diversos assuntos do ramo da Astronomia e da Ciência.
 * [Mensageiro Sideral](https://www.youtube.com/channel/UCoRwVRrzVq3qTw7GqOEfH6Q/featured) - Desvendando os segredos do universo.
 * [Nerdologia](https://www.youtube.com/user/nerdologia) - Uma análise científica da cultura nerd!
 * [Olá Ciência](https://www.youtube.com/olacienciabr) - O canal em que você será apresentado ao mundo científico, de uma forma bem-humorada e direta.
