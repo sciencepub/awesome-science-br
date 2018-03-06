@@ -47,7 +47,8 @@ Para sugerir uma adição na lista, consulte o nosso [Guia de Contribuição](co
 
 ## Eventos
 
-* [SciencePub](https://www.facebook.com/sciencepubma/) - Pub mensal sobre ciência, filosofia e sociedade em São Luís - Maranhão.
+* [SciencePub](https://www.facebook.com/sciencepubma/) - Pub mensal sobre ciência, filosofia e sociedade.  
+São Luís, Maranhão
 
 ## Instituições
 * [Associação Paraibana de Astronomia](http://www.apapb.org/)
