@@ -18,7 +18,7 @@ Para sugerir uma adição na lista, consulte o nosso [Guia de Contribuição](co
 
 * [Biologia Total](https://www.youtube.com/user/jubilut) - Canal destinado a divulgação desta magnífica ciência chamada biologia.
 * [BláBláLogia](https://www.youtube.com/channel/UC3Ooj_iDWELBumIEDejyNHQ) - BláBláLogia, um programa informativo, com preocupação científica, mas ao mesmo tempo leve e divertido.
-* [Café e Ciência](https://www.youtube.com/c/cafeeciencia?app=desktop) -vídeos sobre Divulgação Científica, Astronomia, Matemática, Física e ciências em geral.
+* [Café e Ciência](https://www.youtube.com/c/cafeeciencia?app=desktop) - Vídeos sobre Divulgação Científica, Astronomia, Matemática, Física e ciências em geral.
 * [Ciência Todo dia](https://www.youtube.com/user/CienciaTodoDia) - Um canal totalmente voltado para assuntos que podem ser abordados no cotidiano, mantendo seu cérebro sempre ativo!
 * [Ciência e Astronomia](https://www.youtube.com/user/cienciaeastronomia) - O canal Ciência e Astronomia tem o objetivo de divulgar e popularizar diversos assuntos do ramo da Astronomia e da Ciência.
 * [Mensageiro Sideral](https://www.youtube.com/channel/UCoRwVRrzVq3qTw7GqOEfH6Q/featured) - Desvendando os segredos do universo.
@@ -33,6 +33,7 @@ Para sugerir uma adição na lista, consulte o nosso [Guia de Contribuição](co
 
 ## Podcasts
 * [Astrocast](https://www.mixcloud.com/astrocast/) - Astrocast é um podcast de ciência focado em astronomia e ciências afins.
+* [Alô, Ciência](http://alociencia.com.br/) - Podcast de divulgação científica.
 * [Dragões de Garagem](http://dragoesdegaragem.com/podcast/dragoes-de-garagem/) - O Dragões de Garagem é um podcast de divulgação científica. Falamos de ciência de forma natural, incentivando o pensamento crítico e a curiosidade dos ouvintes.
 * [Fronteiras da Ciência](http://www.ufrgs.br/frontdaciencia/) - Ciência, pseudociências e tudo o mais!
 * [Nerdcast](https://jovemnerd.com.br/nerdcast/) - Podcast sobre história, ciência, cinema, quadrinhos, literatura, tecnologia, games, RPG… Tudo que um nerd gosta!
