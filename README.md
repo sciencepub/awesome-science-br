@@ -28,6 +28,7 @@ Para sugerir uma adição na lista, consulte o nosso [Guia de Contribuição](co
 * [Peixe Babel](https://www.youtube.com/user/CanalPeixeBabel) - Canal voltado pra explicar de forma acessível temas de uma área pouco explorada na mídia e pouco entendida, a robótica.
 * [Pirula](https://www.youtube.com/user/Pirulla25) - Canal de divulgação científica com enfoque em biologia.
 * [Primata Falante](https://www.youtube.com/user/mrprimatafalante) - Por aqui você encontra vídeos sobre ciência, sociedade, ciência de filmes, games e outros universos de ficção e muito mais.
+* [SciencePub](https://www.youtube.com/channel/UCYVOOYb5aMCGmwOv6GcyedA) -  Seu pub no YouTube para conhecer sobre Ciência e Tecnologia. Pegue sua cerveja e vem com a gente.  
 * [SpaceTodayTV](https://www.youtube.com/channel/UC_Fk7hHbl7vv_7K8tYqJd5A) - O SpaceTodayTV é um canal voltado para a divulgação da astronomia em português.
 * [Tomada Zero](https://www.youtube.com/channel/UCUUxzrFdb0eOmLkTjHd_MMg) - Paródia bem-humorada de Carl Sagan, discutindo ciência de maneira leve e descontraída.
 
@@ -44,12 +45,15 @@ Para sugerir uma adição na lista, consulte o nosso [Guia de Contribuição](co
 * [Jornal da Ciência](http://www.jornaldaciencia.org.br/) - Publicação de divulgação científica da Sociedade Brasileira para o Progresso da Ciência
 * [Mistérios do Universo](http://www.misteriosdouniverso.net/) - Página com conteúdo exclusivamente científico com foco em astronomia, cosmologia, física, astrofísica, e ciências no geral.
 * [Revista Pesquisa FAPESP](http://revistapesquisa.fapesp.br/) - Site da revista da Fundação de Amparo à Pesquisa do Estado de São Paulo.
+* [Revista Questão de Ciência](http://revistaquestaodeciencia.com.br/quem-somos) - A Revista Questão de Ciência é uma publicação digital do Instituto Questão de Ciência.
 * [Universo Racionalista](https://universoracionalista.org/) - Universo Racionalista é uma organização em língua portuguesa especializada em divulgação científica e filosófica.
 
 ## Eventos
 
-* [SciencePub](https://www.facebook.com/sciencepubma/) - Pub mensal sobre ciência, filosofia e sociedade.  
-São Luís, Maranhão
+* [SciencePub](https://sciencepub.github.io/) - Pub mensal sobre ciência, filosofia e sociedade. ***São Luís, Maranhão***
+* [Beba com Ciência](https://www.instagram.com/bebacomciencia/) - Falar sobre ciência numa mesa de bar? Com uma linguagem acessível para todos os públicos! ***Recife, Pernambuco***
+* [Chopp com Ciência](https://www.instagram.com/choppcomciencia/) - Ciência também é cultura e deve estar em todo lugar, inclusive no bar! ***Campinas, São Paulo***
+* [Pint of Science BR](https://pintofscience.com.br/) - O festival anual que celebra a Ciência em pubs e cafés ao redor do mundo. ***Brasil***
 
 ## Instituições
 * [Agência Espacial Brasileira - AEB](http://www.aeb.gov.br/)
